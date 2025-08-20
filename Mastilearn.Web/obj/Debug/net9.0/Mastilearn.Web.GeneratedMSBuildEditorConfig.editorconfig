@@ -32,6 +32,38 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVhY2hlclxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Student/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcU3R1ZGVudFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Student/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcU3R1ZGVudFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Teacher/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcVGVhY2hlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Areas/Teacher/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcQXJlYXNcVGVhY2hlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcVmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Mastilearn.Web/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFzdGlsZWFybi5XZWJcVmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/patch/Documents/MastiLearn/mastilearn-web/Mastilearn.Web/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
