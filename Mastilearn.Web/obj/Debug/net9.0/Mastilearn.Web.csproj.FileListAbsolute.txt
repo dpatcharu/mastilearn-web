@@ -24,6 +24,7 @@ C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\scopedcss\bundle\Mastilearn.Web.styles.css
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\scopedcss\projectbundle\Mastilearn.Web.bundle.scp.css
+C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\compressed\oloor1dnbs-5kifsl6lz3.gz
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\compressed\68hyx0ex4w-61n19gt1b8.gz
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\compressed\phplpb3ivo-xtxxf3hu2r.gz
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\compressed\lvnajgpg4d-t1cqhe9u97.gz
@@ -96,4 +97,3 @@ C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\Mastilearn.Web.pdb
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\Mastilearn.Web.genruntimeconfig.cache
 C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\ref\Mastilearn.Web.dll
-C:\Users\patch\Documents\MastiLearn\mastilearn-web\Mastilearn.Web\obj\Debug\net9.0\compressed\oloor1dnbs-5kifsl6lz3.gz
