@@ -1,0 +1,59 @@
+﻿@model Mastilearn.Web.Models.DemoRequest
+@{ ViewData["Title"] = "Book a Demo"; }
+<h1>Book a Demo</h1>
+
+<form method="post" novalidate>
+  <div class="form-row">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="WorkEmail"></label>
+    <input asp-for="WorkEmail" />
+    <span asp-validation-for="WorkEmail" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="Organization"></label>
+    <input asp-for="Organization" />
+    <span asp-validation-for="Organization" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="Role"></label>
+    <input asp-for="Role" />
+    <span asp-validation-for="Role" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="StudentsCount"></label>
+    <input asp-for="StudentsCount" type="number" />
+    <span asp-validation-for="StudentsCount" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="Timezone"></label>
+    <input asp-for="Timezone" />
+    <span asp-validation-for="Timezone" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="PreferredTime"></label>
+    <input asp-for="PreferredTime" />
+    <span asp-validation-for="PreferredTime" class="text-danger"></span>
+  </div>
+
+  <div class="form-row">
+    <label asp-for="Notes"></label>
+    <textarea asp-for="Notes"></textarea>
+    <span asp-validation-for="Notes" class="text-danger"></span>
+  </div>
+
+  <button class="btn btn-primary" type="submit">Request Demo</button>
+</form>
+
+@section Scripts {
+  <partial name="_ValidationScriptsPartial" />
+}

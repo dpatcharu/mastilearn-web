@@ -1,31 +1,12 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin-bottom: 60px;
-}
-
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
-}
-
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
-}
+﻿:root{ --blue:#4DB5FF; --yellow:#FFD45B; --green:#6EDC82; --coral:#FF7A6A; --ink:#1F2A44; }
+*{ box-sizing:border-box }
+body{ font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); margin:0 }
+.ml-header{ display:flex; justify-content:space-between; align-items:center; padding:14px 20px; background:#fff; border-bottom:1px solid #eee }
+.brand{ font-weight:800; text-decoration:none; color:var(--ink) }
+nav a{ margin-left:14px; text-decoration:none; color:var(--ink) }
+.cta{ padding:8px 12px; background:var(--blue); color:#fff; border-radius:8px }
+.container{ max-width:1100px; margin:0 auto; padding:24px }
+.hero{ padding:64px 0 }
+.btn{ display:inline-block; padding:10px 14px; border:1px solid #ddd; border-radius:8px; margin-right:10px; text-decoration:none; color:var(--ink) }
+.btn-primary{ background:var(--green); border-color:var(--green); color:#073b1a }
+.ml-footer{ padding:20px; border-top:1px solid #eee; text-align:center; font-size:14px }

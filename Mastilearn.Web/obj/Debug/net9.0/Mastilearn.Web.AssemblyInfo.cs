@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mastilearn.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b47ceee8efea97e68b89411fe5024a90f82689")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49fc5a654bdfeeefa8b0fe76c1e56f4e679c402c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mastilearn.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mastilearn.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
